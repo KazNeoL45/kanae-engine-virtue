@@ -166,12 +166,12 @@ Kanae/
 
 ### Technical Support
 For technical issues and bug reports, please contact:
-- Email: [Contact Information]
-- Website: [Website URL]
+- Ninesstrife416c78@outlook.com
+
 
 ### License Information
 Kanae Engine Virtue
-Copyright © 2024 Kyon Soft
+Copyright © 2025 Kyon Soft
 All rights reserved.
 Developed by Maxim Alexander Lamas
 
@@ -179,7 +179,7 @@ Developed by Maxim Alexander Lamas
 
 ### Current Version
 - Version: 1.0.0
-- Release Date: 2024
+- Release Date: 2025
 - Platform: Windows, macOS
 
 ### Key Features
@@ -189,6 +189,23 @@ Developed by Maxim Alexander Lamas
 - Component-based architecture
 - Cross-platform support
 
----
+---------- Execution info -----------
+- once in the root folder of the project, run the following command to build:
+
+"dotnet build"
+
+- afterwards, run:
+"dotnet run"
+
+-- the engine launcher window will open once that done, youre good to go, happy development!
+
+-------------------------------------
+
+
+-- Version 1.0.1
+-- improved stability and memory management 
+-- improved interface 
+-- build 1.0.1
+
 
 *This documentation is subject to updates and changes as the engine evolves. For the latest information, please check the official documentation or contact Kyon Soft support.* 
