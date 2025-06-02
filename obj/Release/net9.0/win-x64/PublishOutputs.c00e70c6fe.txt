@@ -1,0 +1,4 @@
+/Users/maximlamas/Kanae/Kyon/bin/Release/net9.0/win-x64/publish/Kanae.pdb
+/Users/maximlamas/Kanae/Kyon/bin/Release/net9.0/win-x64/publish/Shaders/basic.frag
+/Users/maximlamas/Kanae/Kyon/bin/Release/net9.0/win-x64/publish/Shaders/basic.vert
+/Users/maximlamas/Kanae/Kyon/bin/Release/net9.0/win-x64/publish/Kanae.exe

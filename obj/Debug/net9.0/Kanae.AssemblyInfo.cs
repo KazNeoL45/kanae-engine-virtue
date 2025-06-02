@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kanae")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0f921a930b76a39836c2d1a1bc268633f7c4ea4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e37ef01f707110cd1c2b918b71c30e6dd0f500d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kanae")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kanae")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
