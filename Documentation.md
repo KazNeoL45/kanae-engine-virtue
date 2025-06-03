@@ -189,6 +189,7 @@ Developed by Maxim Alexander Lamas
 - Component-based architecture
 - Cross-platform support
 
+### Aditional info
 ---------- Execution info -----------
 - once in the root folder of the project, run the following command to build:
 
@@ -202,10 +203,12 @@ Developed by Maxim Alexander Lamas
 -------------------------------------
 
 
--- Version 1.0.1
--- improved stability and memory management 
--- improved interface 
--- build 1.0.1
+### Engine news 
+
+### Version 1.0.1
+- improved stability and memory management 
+-improved interface 
+- build 1.0.1
 
 
 *This documentation is subject to updates and changes as the engine evolves. For the latest information, please check the official documentation or contact Kyon Soft support.* 
